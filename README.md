@@ -77,4 +77,3 @@ Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con
 
 ¡Gracias por ver este proyecto!
 
-```
